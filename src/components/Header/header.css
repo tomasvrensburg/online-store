@@ -1,0 +1,38 @@
+/* ----- HEADER ----- */
+
+/* Header Logo */
+
+.nav-logo-img {
+  max-width: 500px;
+  min-width: none;
+  height: auto;
+}
+
+.navigationBar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation-link {
+  text-decoration: none;
+  color: #212529;
+  font-size: 1.1em;
+  display: block;
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 12px;
+  text-align: start;
+}
+
+/* Removing default border from bootstrap toggler */
+.navbar-toggler {
+  border: none;
+}
+
+@media screen and (max-width: 768px) {
+  .nav-logo-img {
+    max-width: 300px;
+    padding-left: 10px;
+  }
+}

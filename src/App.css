@@ -1,0 +1,40 @@
+/* ----- GLOBAL ----- */
+
+/* IMPORTING FONTS */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900');
+
+body {
+  margin-top: 10px;
+  font-family: Futura, sans-serif;
+  font-weight: 100;
+  color: #404040;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 0;
+}
+
+h6 {
+  font-size: 0.8em;
+  letter-spacing: 1px;
+}
+
+p {
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  font-size: .9em;
+  margin: 30px 0;
+}
+
+.icon {
+  margin: 5px;
+  padding-bottom: 2px;
+}
+
+.block {
+  display: flex;
+  flex-direction: column;
+}

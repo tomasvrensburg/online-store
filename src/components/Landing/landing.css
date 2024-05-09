@@ -1,0 +1,53 @@
+/* ----- LANDING ----- */
+
+.banner-image {
+  height: 100vh;
+  background-image: url('../../images/platoShop.webp');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 -10px;
+  margin-bottom: 60px;
+}
+
+.introduction {
+  margin: 40px 100px;
+}
+
+/* Gallery */
+
+.gallery {
+  margin: 100px 40px;
+}
+
+/* Featured Products */
+
+#featuredProducts {
+  margin: 20px 40px;
+}
+
+.featured-container {
+  margin-top: 10px;
+}
+
+/* Featered Store */
+
+#featuredStore {
+  background-image: url('../../images/bedfordviewStore.webp');
+  background-size: cover;
+  height: 90vh;
+  width: 100vw;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 60px;
+}
+
+#featuredStore p {
+  margin: 10px 0;
+}
+
+#featuredStore a {
+  color: #fff;
+}

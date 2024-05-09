@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/online-store/static/css/main.40bf2c90.css",
+    "main.js": "/online-store/static/js/main.da430939.js",
+    "static/js/453.1e4b5621.chunk.js": "/online-store/static/js/453.1e4b5621.chunk.js",
+    "static/media/productFive.jpg": "/online-store/static/media/productFive.1ff8177073c113962ed8.jpg",
+    "static/media/bedfordviewStore.webp": "/online-store/static/media/bedfordviewStore.4fed0a6a7f90e5dcfbcf.webp",
+    "static/media/platoShop.webp": "/online-store/static/media/platoShop.52f4ec18cc4727e64f14.webp",
+    "static/media/paarlStore.webp": "/online-store/static/media/paarlStore.d554a35cbdfde5cb3f26.webp",
+    "static/media/galleryEleven.jpeg": "/online-store/static/media/galleryEleven.a46550b18aff1bf832d7.jpeg",
+    "static/media/galleryTwelve.webp": "/online-store/static/media/galleryTwelve.6718f7cea120180fc847.webp",
+    "static/media/IMG_0895.jpg.webp": "/online-store/static/media/IMG_0895.jpg.3317b71017c7169aae3e.webp",
+    "static/media/galleryNine.webp": "/online-store/static/media/galleryNine.d9e81e7c5da48ce240bc.webp",
+    "static/media/gallerySix.webp": "/online-store/static/media/gallerySix.f3ada64390b5e616094e.webp",
+    "static/media/IMG_0949.jpg.webp": "/online-store/static/media/IMG_0949.jpg.652d2af13d1344d21206.webp",
+    "static/media/productEight.jpg": "/online-store/static/media/productEight.70745f9dab39b15c49d8.jpg",
+    "static/media/IMG_0716.jpg.webp": "/online-store/static/media/IMG_0716.jpg.4af892a4a2199847457a.webp",
+    "static/media/galleryTwo.webp": "/online-store/static/media/galleryTwo.8e4a22f1074f5af82470.webp",
+    "static/media/galleryEight.webp": "/online-store/static/media/galleryEight.63a4fac4306cf763e6e0.webp",
+    "static/media/galleryFive.webp": "/online-store/static/media/galleryFive.d8b40fa2ffc4dd7edd25.webp",
+    "static/media/IMG_0874.jpg.webp": "/online-store/static/media/IMG_0874.jpg.a7c3717a6eb032d58bdb.webp",
+    "static/media/galleryOne.webp": "/online-store/static/media/galleryOne.ed17f941e2dc98b890ba.webp",
+    "static/media/gallerySeven.webp": "/online-store/static/media/gallerySeven.f5dcdcc95e08a04d5abc.webp",
+    "static/media/galleryThree.webp": "/online-store/static/media/galleryThree.3335e1a7bafeb443b989.webp",
+    "static/media/galleryFour.webp": "/online-store/static/media/galleryFour.21c4a9a60da5ed24f84f.webp",
+    "static/media/galleryTen.webp": "/online-store/static/media/galleryTen.e667f6fdf2cbe7cb699a.webp",
+    "static/media/productSix.jpg": "/online-store/static/media/productSix.d43d080cc15516b8f143.jpg",
+    "static/media/productSeven.jpg": "/online-store/static/media/productSeven.3acf12d0d9ffedd1a797.jpg",
+    "static/media/productTen.jpg": "/online-store/static/media/productTen.2f723fef6e814636c3a7.jpg",
+    "static/media/productNine.jpg": "/online-store/static/media/productNine.ea4443849e5193442347.jpg",
+    "static/media/platoLogo.webp": "/online-store/static/media/platoLogo.e60b3a1091ceff9b3c35.webp",
+    "static/media/shoppingBag.svg": "/online-store/static/media/shoppingBag.b5e639bcc606452995c211e9c1e16c7b.svg",
+    "index.html": "/online-store/index.html",
+    "main.40bf2c90.css.map": "/online-store/static/css/main.40bf2c90.css.map",
+    "main.da430939.js.map": "/online-store/static/js/main.da430939.js.map",
+    "453.1e4b5621.chunk.js.map": "/online-store/static/js/453.1e4b5621.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40bf2c90.css",
+    "static/js/main.da430939.js"
+  ]
+}
